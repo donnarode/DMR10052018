@@ -1,0 +1,1 @@
+This is my first attempt at a new file added to a local Git.
