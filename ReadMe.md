@@ -1,1 +1,1 @@
-This is my first attempt at a new file added to a local Git.
+This is my first attempt at a new file added to a local Git. I am now making an edit to this file.
